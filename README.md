@@ -1,5 +1,5 @@
 # HSTNet: Hybrid Supervision-Driven Two-Stream Collaborative Network for Hyperspectral Wheat Variety Classification
-This repository contains the code (in Pytorch)
+This repository contains the code (in Pytorch) coming soon.
 # Introduction
 Hyperspectral remote sensing technology is widely utilized in agriculture. Fine classification of wheat varieties using hyperspectral images is essential for smart agriculture. Unfortunately,
 the limited availability of spectral data and the difficulty in collecting it have long hindered progress in wheat classification. To cope with these issues, we design a hybrid supervised-driven two-stream collaborative network (HSTNet), which consists of a semi-supervised conditional generative adversarial network for data augmentation (SCGAN) and a supervised two-stream discriminative network (STDNet) for wheat classification. In SCGAN, the generator constructs a mapping relationship between input noise and real wheat hyperspectral samples to generate fake wheat hyperspectral samples that are highly matched with the distribution of the real sample, and the discriminator with

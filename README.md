@@ -33,8 +33,7 @@ our constructed MWHD dataset demonstrate that the proposed
 <img width="1802" height="638" alt="image" src="https://github.com/user-attachments/assets/99ef6597-21f2-4d0e-aaab-9e625eb08d10" />
 
 # Dependencies
--- Python == 3.12.7
--- PyTorch == 1.10.1
--- mmde應趾ection == 2,22.0
--- mmcv == 1.4.0
--- numpy == 1.21.2
+- Python == 3.12.7
+- PyTorch == 1.10.1
+- mmcv == 1.4.0
+- numpy == 1.21.2
